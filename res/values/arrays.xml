@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string-array name="DateRange">
+  <item>Day</item>
+  <item>Week</item>
+  <item>Month</item>
+</string-array>
+<string-array name="CacheTypes">
+  <item>Not use</item>
+  <item>Session</item>
+  <item>Permanent</item>
+</string-array>
+<string-array name="CacheTypeValues">
+  <item>0</item>
+  <item>1</item>
+  <item>2</item>
+</string-array>
+<string-array name="NotificationPeriods">
+  <item>Never</item>
+  <item>Every minute</item>
+  <item>Every hour</item>
+  <item>Every day</item>
+</string-array>
+<string-array name="NotificationValues">
+  <item>0</item>
+  <item>1</item>
+  <item>2</item>
+  <item>3</item>
+</string-array>
+<string-array name="Currencies">
+  <item>USD</item>
+  <item>EUR</item>
+  <item>UAH</item>
+  <item>GBP</item>
+  <item>JPY</item>
+  <item>CHF</item>
+  <item>AUD</item>
+  <item>CAD</item>
+  <item>NZD</item>
+  <item>PLN</item>
+  <item>CZK</item>
+  <item>SGD</item>
+  <item>MXN</item>
+  <item>NOK</item>
+  <item>RUB</item>
+  <item>DKK</item>
+  <item>ZAR</item>
+  <item>SEK</item>
+  <item>HKD</item>
+  <item>HUF</item>
+</string-array>
+<string-array name="Periods">
+  <item>@string/one_minute</item>
+  <item>@string/half_an_hour</item>
+  <item>@string/one_hour</item>
+  <item>@string/three_hours</item>
+</string-array>
+<string-array name="PeriodValues">
+  <item>1</item>
+  <item>30</item>
+  <item>60</item>
+  <item>180</item>
+</string-array>
+<string-array name="empty_array"/>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/period"
+        android:icon="@drawable/ic_period"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/period">
+        <menu>
+            <item
+                android:id="@+id/item_w"
+                android:title="@string/week"/>
+            <item
+                android:id="@+id/item_m"
+                android:title="@string/month"/>
+            <item
+                android:id="@+id/item_y"
+                android:title="@string/year"/>
+        </menu>
+    </item>
+
+</menu>

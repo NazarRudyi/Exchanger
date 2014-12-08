@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exchanger</string>
+    <string name="wiget_name">Exchanger</string>
+    <string name="settings_name">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="exchange">Currency exchanger</string>
+    <string name="ok">OK</string>
+    <string name="one_minute">in 1 minute</string>
+    <string name="half_an_hour">in 30 minutes</string>
+    <string name="one_hour">in 1 hour</string>
+    <string name="three_hours">in 3 hours</string>
+    <string name="refresh">Refresh data</string>
+    <string name="choise_currency">Select currency</string>
+    <string name="baseCurrency">Base Currency</string>
+    <string name="selectBaseCurrency">Select base currency</string>
+    <string name="currenciesTitle">Currencies</string>
+    <string name="selectExchangeCurrencies">Select exchange currencies</string>
+    <string name="refreshPeriod">Refresh Period</string>
+    <string name="choose_period">Choose refresh period</string>
+    <string name="select_refresh_period">Select refresh period</string>
+    <string name="list_currencies">List Currencies</string>
+    <string name="period">Period</string>
+    <string name="week">Weekly</string>
+    <string name="month">Monthly</string>
+    <string name="year">Yearly</string>
+
+</resources>

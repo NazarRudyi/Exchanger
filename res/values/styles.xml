@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="color_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:lineSpacingMultiplier">0.8</item>
+    </style>
+
+    <style name="color_text.pink">
+        <item name="android:textColor">#DE12D0</item>
+    </style>
+
+    <style name="color_text.pink.left">
+        <item name="android:textColor">#DE12D0</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:paddingLeft">4dp</item>
+    </style>
+
+    <style name="color_text.pink.right">
+        <item name="android:textColor">#DE12D0</item>
+        <item name="android:layout_gravity">right</item>
+        <item name="android:paddingRight">4dp</item>
+    </style>
+
+    <style name="color_text.pink.center">
+        <item name="android:textColor">#DE12D0</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="color_text.green">
+        <item name="android:textColor">#0CF514</item>
+    </style>
+
+    <style name="color_text.green.left">
+        <item name="android:textColor">#0CF514</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:paddingLeft">4dp</item>
+    </style>
+
+    <style name="color_text.green.right">
+        <item name="android:textColor">#0CF514</item>
+        <item name="android:layout_gravity">right</item>
+        <item name="android:paddingRight">4dp</item>
+    </style>
+
+    <style name="color_text.green.center">
+        <item name="android:textColor">#0CF514</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="color_text.blue">
+        <item name="android:textColor">#6C4FFF</item>
+    </style>
+
+    <style name="color_text.blue.left">
+        <item name="android:textColor">#6C4FFF</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:paddingLeft">4dp</item>
+    </style>
+
+    <style name="color_text.blue.right">
+        <item name="android:textColor">#6C4FFF</item>
+        <item name="android:layout_gravity">right</item>
+        <item name="android:paddingRight">4dp</item>
+    </style>
+
+    <style name="color_text.blue.center">
+        <item name="android:textColor">#6C4FFF</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+</resources>

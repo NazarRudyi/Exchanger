@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen
+	xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- 	<EditTextPreference
+	  android:key="MerchantID"
+      android:title="Merchant ID"
+      android:summary="Enter Google Merchant ID"
+      android:dialogTitle="Merchant ID" />
+	<EditTextPreference
+	  android:key="MerchantKey"
+      android:title="Merchant Key"
+      android:summary="Enter Google Merchant Key"
+      android:dialogTitle="Merchant Key" />
+    <CheckBoxPreference
+      android:title="Sandbox account"
+      android:defaultValue="false"
+      android:summary="Check this if you have test Google account"
+      android:key="Sandbox" />
+    <ListPreference
+      android:key="Notify"
+      android:title="New order notification"
+      android:summary="Setup notification period"
+      android:entries="@array/NotificationPeriods"
+      android:entryValues="@array/NotificationValues"
+      android:dialogTitle="Setup notification period"/>  
+    <ListPreference
+      android:key="UseCache"
+      android:title="Use cache"
+      android:summary="Setup using cache"
+      android:entries="@array/CacheTypes"
+      android:entryValues="@array/CacheTypeValues"
+      android:dialogTitle="Setup using cache" />  -->
+    <ListPreference
+      android:key="BaseCurrency"
+      android:title="@string/baseCurrency"
+      android:summary="@string/selectBaseCurrency"
+      android:entries="@array/Currencies"
+      android:entryValues="@array/Currencies"
+      android:dialogTitle="@string/choise_currency" /> 
+    <MultiSelectListPreference
+      android:key="Currencies"
+      android:title="@string/currenciesTitle"
+      android:summary="@string/selectExchangeCurrencies"
+      android:entries="@array/Currencies"
+      android:entryValues="@array/Currencies"
+      android:defaultValue="@array/empty_array"
+      android:dialogTitle="@string/choise_currency" /> 
+    <ListPreference
+      android:key="RefreshPeriod"
+      android:title="@string/refreshPeriod"
+      android:summary="@string/choose_period"
+      android:entries="@array/Periods"
+      android:entryValues="@array/PeriodValues"
+      android:dialogTitle="@string/select_refresh_period" /> 
+</PreferenceScreen>

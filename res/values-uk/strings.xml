@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Обмінник</string>
+    <string name="wiget_name">Обмінник</string>
+    <string name="settings_name">Налаштування</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="exchange">Обмінник валют</string>
+    <string name="ok">OK</string>
+    <string name="one_minute">через 1 хвилину</string>
+    <string name="half_an_hour">через 30 хвилин</string>
+    <string name="one_hour">через 1 годину</string>
+    <string name="three_hours">через 3 години</string>
+    <string name="refresh">Обновляти дані</string>
+    <string name="choise_currency">Виберіть валюту</string>
+    <string name="baseCurrency">Базова Валюта</string>
+    <string name="selectBaseCurrency">Виберіть базову валюту</string>
+    <string name="currenciesTitle">Валюти для обміну</string>
+    <string name="selectExchangeCurrencies">Виберіть валюти для обміну</string>
+    <string name="refreshPeriod">Період Обновлення</string>
+    <string name="choose_period">Вибір періоду обновлення</string>
+    <string name="select_refresh_period">Виберіть період обновлення</string>
+    <string name="list_currencies">Список валют</string>
+    <string name="period">Період</string>
+    <string name="week">Тижневий</string>
+    <string name="month">Місячний</string>
+    <string name="year">Річний</string>
+
+</resources>
